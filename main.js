@@ -1,0 +1,1 @@
+import { happy } from "./components/Life.js"
